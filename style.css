@@ -413,6 +413,10 @@ span {
     margin-bottom: 3rem;
 
   }
+  .skill-box i{
+    width: 50%;
+    font-size: 5rem;
+  }
   .project h2 {
     margin-bottom: 3rem;
   }
@@ -422,7 +426,7 @@ span {
   .project-container{
     grid-template-columns: repeat(2,1fr);
   }
-}
+}}
 .skill-box{
     display: flex;
   justify-content: center;
@@ -460,4 +464,4 @@ span {
 
   .project-layer p{
     color: brown;
-  }}
+  }
